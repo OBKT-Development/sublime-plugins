@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Codecs33",
+		"Compass",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HalfImageSize",
+		"InputSequence",
+		"Jade",
+		"JSHint",
+		"LESS",
+		"LiveStyle",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SassBeautify",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/Satoh-D/HalfImageSize",
+		"https://github.com/kazu1107/InputSequence.git"
+	]
+}

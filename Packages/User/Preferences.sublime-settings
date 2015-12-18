@@ -1,0 +1,15 @@
+{
+	"afn_insert_width_first": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"word_wrap": false
+}
