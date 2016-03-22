@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Codecs33",
 		"Compass",
@@ -25,6 +26,7 @@
 		"SassBeautify",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-coffee",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
